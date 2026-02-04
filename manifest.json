@@ -2,7 +2,8 @@
   "name": "Snaptube",
   "short_name": "Snaptube",
   "description": "Snaptube - Sistema de Otimização",
-  "start_url": "index.html",
+  "start_url": "/rk7s.precisionv2/index.html",
+  "scope": "/rk7s.precisionv2/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
@@ -22,4 +23,3 @@
     }
   ]
 }
-
